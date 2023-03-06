@@ -48,7 +48,7 @@ header {
 
 header > h1 {  
   color: white;
-  font-family: var(--fonte-destaque);
+  font-family: var(--fonte-android);
   margin-bottom: 20px; 
   font-weight: normal;
   font-size: 2.5em;
